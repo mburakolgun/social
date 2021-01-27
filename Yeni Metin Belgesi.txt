@@ -1,0 +1,6 @@
+Open the browser and go to http://localhost/social/
+
+Accessing janobe’s accounts
+
+Username: janobe@gmail.com
+Password: admin
